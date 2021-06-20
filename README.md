@@ -1,0 +1,2 @@
+# MoneyEarner
+a MFC Program
